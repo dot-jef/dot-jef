@@ -3,7 +3,7 @@ Good day to y'all
 I'm Jeferson Esteron
 A fresh graduate BSIT and an inspiring web engineer
 
-I'm currently learning laravel and creating a sari-sari store management system
+I'm currently working on developing a sari-sari store management system while also learning Laravel framework. You can find it in my repository https://github.com/dot-jef/Sari-Sari-Store.
 
 
 <!--
