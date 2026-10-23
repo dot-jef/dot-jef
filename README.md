@@ -1,4 +1,10 @@
-## Hi there 👋
+Good day to y'all
+
+I'm Jeferson Esteron
+A fresh graduate BSIT and an inspiring web engineer
+
+I'm currently learning laravel and creating a sari-sari store management system
+
 
 <!--
 **dot-jef/dot-jef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
